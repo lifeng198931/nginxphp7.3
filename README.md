@@ -1,0 +1,1 @@
+# nginxphp7.3
